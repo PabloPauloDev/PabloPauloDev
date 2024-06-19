@@ -20,7 +20,7 @@ Passionate about building robust and scalable server-side applications, I specia
 
 Outside of the professional environment, I nurture a unique passion: leetcoding. This activity not only sharpens my technical prowess but also allows me to blend logic and creativity in a uniquely captivating way.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/PabloPauloDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-carpanedo/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:pablopaulodev@gmail.com)
