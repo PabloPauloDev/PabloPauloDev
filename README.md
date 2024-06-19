@@ -20,11 +20,14 @@ Passionate about building robust and scalable server-side applications, I specia
 
 Outside of the professional environment, I nurture a unique passion: leetcoding. This activity not only sharpens my technical prowess but also allows me to blend logic and creativity in a uniquely captivating way.
 
+#
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+#
 # 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/PabloPauloDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-carpanedo/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:pablopaulodev@gmail.com)
-# 🌐 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,12 +41,14 @@ Outside of the professional environment, I nurture a unique passion: leetcoding.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 
-##
+# 👨🏽‍💻 I Mostly Use:
 
-<div align="center">   
+<p align="left">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PabloPauloDev&layout=compact" />
+  <a href="https://stats.hyochan.dev/en/stats/PabloPauloDev"><img src="https://stats.hyochan.dev/api/github-stats?login=PabloPauloDev"width="405" /></a>
+</p>
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloPauloDev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Pablo Paulo Dev Github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPauloDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  
-</div>
+
+
+
 
